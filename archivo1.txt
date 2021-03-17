@@ -1,3 +1,7 @@
 Archivo 1 de prueba
 Se agrega texto 1
 Agrego algo Rodrigo - punto 7
+=======
+
+Se modifica para generar conflicto
+>>>>>>> ecd7e7e6a3005c01a66d4395730496df1a2ebd1e
