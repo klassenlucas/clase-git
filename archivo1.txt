@@ -1,2 +1,4 @@
 Archivo 1 de prueba
 Se agrega texto 1
+
+Se modifica para generar conflicto
